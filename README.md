@@ -69,3 +69,4 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 4. *São José dos Campos - SP*
 5. *São José - SC*
 6. *Florianópolis - SC*
+7. *Recife - PE*
