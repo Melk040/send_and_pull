@@ -52,7 +52,7 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 
 | Estudos | Revisão | Treino |
 
-|:---------|:---------:|--------:|
+|---------|---------|--------|
 
 | Git e Github | Git Checkout | Clonar Repositório |
 | HTML | Tabelas e Listas | Tabelas de carros e cidades |
