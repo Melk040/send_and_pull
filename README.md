@@ -54,7 +54,7 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 ## Tabela de Estudos  
 
 | *Estudos* | *Revisão* | *Treino* |
-|---------|---------|--------|
+|:---------|:---------:|--------:|
 | **Git** | checkout | clone|
 | **Git** | merge | gitignore |
 | **HTML** | tables `/`rowspan | Tabelas de carros e cidades |
