@@ -50,11 +50,17 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
   ***Brazilian Isaac Asimov*** 
 
 ## Tabela de Estudos 
-|_Estudos_|_Revisão_|_Treino_|
 
-|---|---|---|
+  
 
-| *Git e Github* | *Git Checkout* | *Clonar Repositório* |
-| *HTML* | *Tabelas e Listas* | *Tabelas de carros e cidades* |
-| *CSS* | *Estilização de fontes* | *background color* |
-| *Javascript* | *Lógica de Programação* | *Condicionais e Boleanos* |
+## Tabela de Estudos  
+
+| *Estudos* | *Revisão* | *Treino* |
+|---------|---------|--------|
+| **Git** | checkout | clone|
+| **Git** | merge | gitignore |
+| **HTML** | tables `/`rowspan | Tabelas de carros e cidades |
+| **CSS** | Estilização de fontes | background color `/`seletores |
+| **CSS** | classes `&` id's |  degradês
+| **Javascript** | Lógica de Programação | Condicionais e Boleanos |
+| **Javascript** | strings | numbers
