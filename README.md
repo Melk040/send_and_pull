@@ -49,9 +49,7 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 
   ***Brazilian Isaac Asimov*** 
 
-## Tabela de Estudos 
-
-  
+ 
 
 ## Tabela de Estudos  
 
