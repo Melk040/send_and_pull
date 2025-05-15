@@ -49,11 +49,12 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 
   ***Brazilian Isaac Asimov*** 
 
-Estudos | Revisão | Treino
 
-|:-------:---------:-------:|
+| Estudos | Revisão | Treino |
 
-Git e Github|Git Checkout | Clonar Repositório
-HTML | Tabelas e Listas|Tabelas de carros e cidades
-CSS|Estilização de fontes| background color
-Javascript|Lógica de Programação|Condicionais e Boleanos
+|:---------|:---------:|--------:|
+
+| Git e Github | Git Checkout | Clonar Repositório |
+| HTML | Tabelas e Listas | Tabelas de carros e cidades |
+| CSS | Estilização de fontes | background color |
+| Javascript | Lógica de Programação | Condicionais e Boleanos |
