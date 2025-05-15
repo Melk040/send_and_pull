@@ -63,9 +63,9 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 | **Javascript** | strings | numbers
 
 ## Lista: Polos tecnológicos do Brasil
-1. *São Paulo*
-2. *Maunaus*
-3. *Blumenau*
-4. *São José dos Campos*
-5. *São José*
-6. *Florianópolis*
+1. *São Paulo - SP*
+2. *Manaus - AM*
+3. *Blumenau - SC*
+4. *São José dos Campos - SP*
+5. *São José - SC*
+6. *Florianópolis - SC*
