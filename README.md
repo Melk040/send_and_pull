@@ -62,3 +62,10 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 | **Javascript** | Lógica de Programação | Condicionais e Boleanos |
 | **Javascript** | strings | numbers
 
+## Lista: Polos tecnológicos do Brasil
+1. *São Paulo*
+2. *Maunaus*
+3. *Blumenau*
+4. *São José dos Campos*
+5. *São José*
+6. *Florianópolis*
