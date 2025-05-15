@@ -43,14 +43,14 @@ git remote
 Gerencia o conjunto dos repositórios monitorados.
 
 
-### Citação
+## Citação
 
 _There is a cult of ignorance in the Brazil, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge."_  
 
   ***Brazilian Isaac Asimov*** 
    
 
-## Tabela de Estudos  
+## Tabela de Estudos
 
 | *Estudos* | *Revisão* | *Treino* |
 |:---------|:---------:|--------:|
@@ -61,3 +61,4 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 | **CSS** | classes `&` id's |  degradês
 | **Javascript** | Lógica de Programação | Condicionais e Boleanos |
 | **Javascript** | strings | numbers
+
