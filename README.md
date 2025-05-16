@@ -12,7 +12,7 @@ Repositório para armazenar anotações e resumos de aulas sobre Git e Github do
 |------|-------|
 |_Gravando alterações no Repositório Local_ |[Resumos](https://web.dio.me/course/406684a4-396d-4160-94b9-ead934e18564/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fsantander-linux-para-iniciantes&moduleId=undefined&tab=undefined)|
 
-## Principais comandos estudados:
+## Principais comandos estudados: &#128187;
 ```
 git init 
 ```
@@ -36,12 +36,16 @@ Grava as alterações feitas no repositório.
 ```
 git add
 ```
-Adiciona o conteúdo do arquivo ao índice.
+Adiciona o conteúdo do arquivo ao índice. Coloca as alterações na **_staged area_**.
 ```
 git remote
 ```
 Gerencia o conjunto dos repositórios monitorados.
 
+```
+git log
+```
+Comando ajuda a verificar o histórico de alterações realizadas no código`/` documento. Ele lista commits previamente realizados em ordem cronológica.
 
 ## Citação
 
@@ -62,6 +66,8 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 | **Javascript** | Lógica de Programação | Condicionais e Boleanos |
 | **Javascript** | strings | numbers
 
+##
+
 ## Lista: Polos tecnológicos do Brasil
 1. *São Paulo - SP*
 2. *Manaus - AM*
@@ -70,3 +76,5 @@ _There is a cult of ignorance in the Brazil, and there has always been. The stra
 5. *São José - SC*
 6. *Florianópolis - SC*
 7. *Recife - PE*
+
+##
