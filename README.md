@@ -46,6 +46,10 @@ Gerencia o conjunto dos repositórios monitorados.
 git log
 ```
 Comando ajuda a verificar o histórico de alterações realizadas no código`/` documento. Ele lista commits previamente realizados em ordem cronológica.
+```
+git checkout
+```
+Desfaz alterações no documento e faz um rollback para o estado original do mesmo.
 
 ## Citação
 
